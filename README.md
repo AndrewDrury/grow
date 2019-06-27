@@ -1,6 +1,6 @@
 # grow
 
-### Earned 1st Place Overall at Hack Lassonde - Checkout the project submission [here](https://devpost.com/software/grow-a1tkyo)
+### Earned 1st Place Overall at Hack Lassonde - Checkout the project submission [here](https://devpost.com/software/grow-a1tkyo)!
 
 Grow is an iOS app that recognizes the logo of companies using a custom Core ML model. The company's eco-friendliness is then displayed in augmented reality with Apple’s ARKit. Grow provides a quick way to be cognizant of the impact that companies have on the environment while you shop.
 
