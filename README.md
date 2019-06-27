@@ -4,6 +4,8 @@
 
 Grow is an iOS app that recognizes the logo of companies using a custom Core ML model. The company's eco-friendliness is then displayed in augmented reality with Apple’s ARKit. Grow provides a quick way to be cognizant of the impact that companies have on the environment while you shop.
 
+![grow Screenshot](https://andrewdrury.github.io/img/grow1.jpg)
+
 ## Built With
 
 * [Core ML](https://developer.apple.com/documentation/coreml) - Used to create a custom Core ML model to recognize company logos
