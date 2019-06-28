@@ -16,5 +16,5 @@ Grow is an iOS app that recognizes the logo of companies using a custom Core ML 
 * **Andrew Drury** - *Developer* - [AndrewDrury](https://github.com/AndrewDrury)
 * **Andy Wang** - *Developer* - [AndyWang99](https://github.com/AndyWang99)
 * **Siddharth Garg** - *Developer* - [siddharthgarg-waterloo](https://github.com/siddharthgarg-waterloo)
-* **Daniela Ornelas** - *Designer*
-* **Carol Chu** - *Designer*
+* **Daniela Ornelas** - *Designer* - [LinkedIn](https://www.linkedin.com/in/danielaornelas334/)
+* **Carol Chu** - *Designer* - [LinkedIn](https://www.linkedin.com/in/cr3chu/)
